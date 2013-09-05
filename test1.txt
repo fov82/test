@@ -1,6 +1,1 @@
-It is a test file!
-asdas
-ads
-ads
-ads
-ads
+Мой тест
